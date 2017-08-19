@@ -1,0 +1,22 @@
+#about, #process, #challenges, #faq, #contact, #theTeam {
+	transform: translateY(100px);
+	transition: all 1s ease-out;
+}
+#about.fade-in {
+	transform: translateY(0px);
+}
+#process.fade-in {
+	transform: translateY(0px);
+}
+#challenges.fade-in {
+	transform: translateY(0px);
+}
+#faq.fade-in {
+	transform: translateY(0px);
+}
+#theTeam.fade-in {
+	transform: translateY(0px);
+}
+#contact.fade-in {
+	transform: translateY(0px);
+}
